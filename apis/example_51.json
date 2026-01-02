@@ -1,7 +1,9 @@
 {
     "data": {
+        "v": "202512081540",
         "unit": "px",
         "page": {
+            "readonly": false,
             "viewer": "iot",
             "width": 960,
             "height": 650,
@@ -12,14 +14,14 @@
             "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
             "xOffset": 0,
             "yOffset": 0,
-            "space": 0,
             "copies": 1,
+            "spacing": 0,
             "blank": 2,
             "labelCol": 1,
             "labelGap": 10,
-            "font": "tahoma",
             "gridWidth": 20,
             "gridHeight": 20,
+            "font": "tahoma",
             "background": "#00a7ff41",
             "backgroundImage": "https://pic.90sheji.com/design/04/53/52/88/5f963b217c034.jpg%21/fwfh/3840x0/clip/0x2550a0a0/quality/90/unsharp/true/compress/true/watermark/url/LzkwX3dhdGVyX3Y2LnBuZw==/repeat/true",
             "backgroundRepeat": "full",
@@ -30,10 +32,12 @@
         },
         "elements": [
             {
-                "id": "yzc4zte4_lg4t6ji8365",
-                "type": "chart/a5m369",
+                "v": "202512081540",
+                "id": "jlyjyzodb_lg4t6ji8365",
+                "type": "chart/pni1q",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": -32,
                     "y": -37,
                     "width": 342,
@@ -57,10 +61,12 @@
                 }
             },
             {
-                "id": "yzc4zte4_lg4t6ji8421",
-                "type": "chart/a4znm9",
+                "v": "202512081540",
+                "id": "jlyjyzodb_lg4t6ji8421",
+                "type": "chart/pkxj8",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": 310,
                     "y": 0,
                     "width": 362,
@@ -84,10 +90,12 @@
                 }
             },
             {
-                "id": "yzc4zte4_lfuvg8pv131",
-                "type": "aar5i9",
+                "v": "202512081540",
+                "id": "jlyjyzodb_lfuvg8pv131",
+                "type": "q6che",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": 31,
                     "y": 233,
                     "width": 288,
@@ -97,7 +105,6 @@
                     "print": "each",
                     "webUrl": "https://bpic.588ku.com/element_origin_min_pic/16/09/19/1757dfb6600e2c5.jpg%21/fwfh/804x786/quality/90/unsharp/true/compress/true",
                     "bind": {},
-                    "rotateY": true,
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
@@ -106,10 +113,12 @@
                 }
             },
             {
-                "id": "yzc4zte4_lfuvg8pv197",
-                "type": "svg/a3qsi9",
+                "v": "202512081540",
+                "id": "jlyjyzodb_lfuvg8pv197",
+                "type": "svg/pg7xb",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": 139,
                     "y": 411,
                     "width": 633,
@@ -146,10 +155,12 @@
                 }
             },
             {
-                "id": "yzc4zte4_lfuvg8pv248",
-                "type": "a7slm9",
+                "v": "202512081540",
+                "id": "jlyjyzodb_lfuvg8pv248",
+                "type": "pxs3q",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": 716,
                     "y": 25,
                     "width": 220,
@@ -157,8 +168,6 @@
                     "alpha": 1,
                     "rotate": 0,
                     "value": 42,
-                    "min": -20,
-                    "max": 50,
                     "bind": {
                         "tag": "apis/iot.json",
                         "id": "iot",
@@ -172,18 +181,23 @@
                     },
                     "fixed": 1,
                     "step": 1,
+                    "min": -20,
+                    "max": 50,
                     "enter": "确定",
                     "hspace": 20,
                     "color": "#fff",
+                    "size": 14,
                     "name": "数字调节1",
                     "animations": []
                 }
             },
             {
-                "id": "yzc4zte4_lfuvg8pv316",
-                "type": "aaljm9",
+                "v": "202512081540",
+                "id": "jlyjyzodb_lfuvg8pv316",
+                "type": "q5x2b",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": 589,
                     "y": 27,
                     "width": 104,
@@ -212,10 +226,12 @@
                 }
             },
             {
-                "id": "yzc4zte4_lfuvg8pv378",
-                "type": "svg/a420a9",
+                "v": "202512081540",
+                "id": "jlyjyzodb_lfuvg8pv378",
+                "type": "svg/phi6k",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": 697,
                     "y": 276,
                     "width": 150,
@@ -248,10 +264,12 @@
                 }
             },
             {
-                "id": "yzc4zte4_lfuvg8pv426",
-                "type": "aar5i9",
+                "v": "202512081540",
+                "id": "jlyjyzodb_lfuvg8pv426",
+                "type": "q6che",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": 467,
                     "y": 284,
                     "width": 200,
@@ -269,10 +287,12 @@
                 }
             },
             {
-                "id": "yzc4zte4_lfuvg8pv154",
-                "type": "svg/a3qsi9",
+                "v": "202512081540",
+                "id": "jlyjyzodb_lfuvg8pv154",
+                "type": "svg/pg7xb",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": 197,
                     "y": 374,
                     "width": 376,
@@ -309,10 +329,12 @@
                 }
             },
             {
-                "id": "yzc4zte4_lfuxbd1153",
-                "type": "a6e4m9",
+                "v": "202512081540",
+                "id": "jlyjyzodb_lfuxbd1153",
+                "type": "ps7nn",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": 826,
                     "y": 452,
                     "width": 100,
@@ -347,10 +369,12 @@
                 }
             },
             {
-                "id": "yzc4zte4_lg4t6ji8269",
-                "type": "svg/a8vuu9",
+                "v": "202512081540",
+                "id": "jlyjyzodb_lg4t6ji8269",
+                "type": "svg/q17ge",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": 139,
                     "y": 339,
                     "width": 58,
@@ -376,10 +400,12 @@
                 }
             },
             {
-                "id": "yzc4zte4_lg4xb6l6187",
-                "type": "aaljm9",
+                "v": "202512081540",
+                "id": "jlyjyzodb_lg4xb6l6187",
+                "type": "q5x2b",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": 723,
                     "y": 114,
                     "width": 200,
@@ -418,10 +444,12 @@
                 }
             },
             {
-                "id": "yzc4zte4_lg4xb6l6225",
-                "type": "aaljm9",
+                "v": "202512081540",
+                "id": "jlyjyzodb_lg4xb6l6225",
+                "type": "q5x2b",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": 723,
                     "y": 139,
                     "width": 200,
@@ -460,10 +488,12 @@
                 }
             },
             {
-                "id": "yzc4zte4_lg4xb6l6264",
-                "type": "aaljm9",
+                "v": "202512081540",
+                "id": "jlyjyzodb_lg4xb6l6264",
+                "type": "q5x2b",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": 723,
                     "y": 164,
                     "width": 200,
@@ -499,6 +529,32 @@
                     "winHeight": 500,
                     "name": "文本4",
                     "animations": []
+                }
+            },
+            {
+                "v": "202512081540",
+                "id": "jlyjyzodb_mj6u68o2342",
+                "type": "svg/r5gu8",
+                "unit": "px",
+                "props": {
+                    "readonly": false,
+                    "text": "<!-- 通过编程输出不同形状的SVG图形 -->\n<% if (fields?.length){ %>\n\t<svg viewBox=\"0 0 100 100\">\n  \t\t<% var open = data[fields[0].key] %>\n         <%if (open){%>\n          <circle cx=\"50\" cy=\"50\" r=\"35\" fill=\"green\"/>\n        <%} else {%>\n          <rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" fill=\"red\"/>\n        <%}%>\n\t</svg>\n <%}%>",
+                    "x": 397,
+                    "y": 413,
+                    "width": 140,
+                    "height": 140,
+                    "alpha": 1,
+                    "bind": {
+                        "tag": "apis/iot.json",
+                        "id": "iot",
+                        "fields": [
+                            {
+                                "key": "iot003",
+                                "name": "阀门"
+                            }
+                        ]
+                    },
+                    "name": "SVG文件-1"
                 }
             }
         ]

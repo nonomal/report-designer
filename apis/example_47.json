@@ -37,8 +37,8 @@
         },
         "elements": [
             {
-                "id": "yzc4zte4_142",
-                "type": "svg/ag7fm9",
+                "id": "jlyjyzodb_142",
+                "type": "svg/qsm9q",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -53,7 +53,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a68iq9": "infinite",
+                            "prs8k": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -65,8 +65,8 @@
                 }
             },
             {
-                "id": "yzc4zte4_106",
-                "type": "aawre9",
+                "id": "jlyjyzodb_106",
+                "type": "q6rwh",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -83,7 +83,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a68iq9": "infinite",
+                            "prs8k": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -95,8 +95,8 @@
                 }
             },
             {
-                "id": "yzc4zte4_107",
-                "type": "ajmt69",
+                "id": "jlyjyzodb_107",
+                "type": "r3r5w",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -130,7 +130,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a68iq9": "infinite",
+                            "prs8k": "infinite",
                             "fn": "linear",
                             "delay": 2,
                             "duration": 1,
@@ -142,8 +142,8 @@
                 }
             },
             {
-                "id": "yzc4zte4_108",
-                "type": "ajh7a9",
+                "id": "jlyjyzodb_108",
+                "type": "r3bqt",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -162,7 +162,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a68iq9": "infinite",
+                            "prs8k": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -171,7 +171,7 @@
                             "use": "shakeY"
                         },
                         {
-                            "a68iq9": "infinite",
+                            "prs8k": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1.52,
@@ -183,8 +183,8 @@
                 }
             },
             {
-                "id": "yzc4zte4_109",
-                "type": "aawre9",
+                "id": "jlyjyzodb_109",
+                "type": "q6rwh",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -203,7 +203,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a68iq9": "infinite",
+                            "prs8k": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -215,8 +215,8 @@
                 }
             },
             {
-                "id": "yzc4zte4_110",
-                "type": "ajmt69",
+                "id": "jlyjyzodb_110",
+                "type": "r3r5w",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -252,7 +252,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a68iq9": "infinite",
+                            "prs8k": "infinite",
                             "fn": "linear",
                             "delay": 2,
                             "duration": 1,
@@ -264,8 +264,8 @@
                 }
             },
             {
-                "id": "yzc4zte4_111",
-                "type": "ajh7a9",
+                "id": "jlyjyzodb_111",
+                "type": "r3bqt",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -286,7 +286,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a68iq9": "infinite",
+                            "prs8k": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -295,7 +295,7 @@
                             "use": "shakeY"
                         },
                         {
-                            "a68iq9": "infinite",
+                            "prs8k": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1.52,
@@ -307,8 +307,8 @@
                 }
             },
             {
-                "id": "yzc4zte4_144",
-                "type": "ajmt69",
+                "id": "jlyjyzodb_144",
+                "type": "r3r5w",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -342,7 +342,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a68iq9": 3,
+                            "prs8k": 3,
                             "fn": "cubic-bezier(0.73,-0.02,0.25,0.99)",
                             "delay": 1.5,
                             "duration": 0.8,
